@@ -42,4 +42,4 @@ async def 전송(ctx, *, content: str):
                 print("FAIL SEND")
                 await client.say("**전송 실패 : {}** :x:".format(member))
 		
-client.run("NjUzOTI3NjQ1MDQ1NzE5MDUx.Xe-0nQ.q-FKF7JYnwXNpkp3TQ4Mj-MV_Ds")
+client.run("Njc3ODIzODczNzY4NDg4OTcw.XkZ26A.ItcYCWSotFARDdhIogl03xkC8os")
